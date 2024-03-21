@@ -24,6 +24,8 @@ jobs:
         run: |
           chmod +x run.sh
           ./run.sh
+
+
           
       - name: Commit changes
         run: |
